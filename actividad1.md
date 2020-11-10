@@ -33,4 +33,4 @@ db.players.find()
 ## Ejercicio 7  
 Crar otras colecciones con documentos (teams).  
 db.createCollection("teams")  
-db.teams.insert({"nombre", "equipoVacio"})
+db.teams.insert({"nombre": "equipoVacio"})
