@@ -1,3 +1,3 @@
 # Actividad 1
 
-[HOME](./README.md)/
+[HOME](./README.md)  
