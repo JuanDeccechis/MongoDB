@@ -4,7 +4,7 @@
 
 ## Ejercicio 1
 Instalar MongoDB en el ambiente local.  
-Bajar el instalador:   
+Bajar el instalador: [MongoDB](https://www.mongodb.com/)  
 
 ## Ejercicio 2  
 Conectarse a MongoDB vía CLI:  
