@@ -1,5 +1,6 @@
 # MongoDB
-Actividad 1 [here](./actividad1.md)
-Actividad 2 [here](./actividad2.md)
-Actividad 3 [here](./actividad3.md)
-Actividad 4 [here](./actividad4.md)
+A continuacion se detallan las actividades realizadas en el seminario:
+[Actividad 1](./actividad1.md)/
+[Actividad 2](./actividad2.md)/
+[Actividad 3](./actividad3.md)/
+[Actividad 4](./actividad4.md)/
